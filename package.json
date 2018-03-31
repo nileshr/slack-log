@@ -1,0 +1,24 @@
+{
+  "name": "slack-log",
+  "version": "1.0.0",
+  "description": "Simple util to log messages to Slack - slack.log()",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nileshr/slack-log.git"
+  },
+  "keywords": [
+    "slack-log",
+    "slack",
+    "log"
+  ],
+  "author": "Nilesh Rathi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nileshr/slack-log/issues"
+  },
+  "homepage": "https://github.com/nileshr/slack-log#readme",
+  "dependencies": {
+    "request": "^2.85.0"
+  }
+}
