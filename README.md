@@ -5,7 +5,7 @@ Simple util to log messages to Slack - slack.log()
 
 - Simply put a slack incoming webhook url in `SLACK_WEBHOOK_URL` environment variable (Recommended).
 - Can also configure by using `slack.configure({url: 'SLACK_URL_HERE'})`.
-- Can alsp override the slack channel (optional) the webhook posts to, by using `SLACK_CHANNEL` env variable or by passing `channel` field to slack.configure() method.
+- Can also override the slack channel (optional) the webhook posts to, by using `SLACK_CHANNEL` env variable or by passing `channel` field to slack.configure() method.
 
 ## Usage
 
