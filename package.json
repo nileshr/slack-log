@@ -1,5 +1,5 @@
 {
-  "name": "slack-log",
+  "name": "@nileshr/slack-log",
   "version": "1.0.0",
   "description": "Simple util to log messages to Slack - slack.log()",
   "main": "index.js",
@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/nileshr/slack-log#readme",
   "dependencies": {
-    "request": "^2.85.0"
+    "request": "^2.88.0"
   }
 }
