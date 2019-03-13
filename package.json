@@ -1,6 +1,6 @@
 {
   "name": "@nileshr/slack-log",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple util to log messages to Slack - slack.log()",
   "main": "index.js",
   "repository": {
